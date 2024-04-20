@@ -1,0 +1,33 @@
+
+#code{
+    border-radius: 10px;
+}
+body{
+    background-color:aliceblue ;
+    text-align: center;
+    
+  
+}
+.body{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+    padding: 20px 20px;
+   align-items: center;
+   width: 600px;
+    height: 750px;
+    margin: 20px auto;
+    
+}
+
+p{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: outfit;
+    
+} 
+
+.content{
+    font-weight: 200;
+}
+
+
